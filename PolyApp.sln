@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyApp", "PolyApp\PolyApp.csproj", "{11E7EF40-5A6D-4179-A2DB-076ABB614D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E7EF40-5A6D-4179-A2DB-076ABB614D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E7EF40-5A6D-4179-A2DB-076ABB614D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E7EF40-5A6D-4179-A2DB-076ABB614D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E7EF40-5A6D-4179-A2DB-076ABB614D93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0467C865-3686-48B8-96CD-201E460C79F6}
+	EndGlobalSection
+EndGlobal
